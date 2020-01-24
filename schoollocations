@@ -1,0 +1,290 @@
+[
+  {
+    "Name": "A. Philip Randolph Career and Technical High School",
+    "Latitude": 40.007748,
+    "Longitude": -75.179692,
+    "Value": 14
+  },
+  {
+    "Name": "Abraham Lincoln High School",
+    "Latitude": 40.044062,
+    "Longitude": -75.04082,
+    "Value": 26
+  },
+  {
+    "Name": "Architecture and Design Charter School",
+    "Latitude": 39.949335,
+    "Longitude": -75.1522,
+    "Value": 13
+  },
+  {
+    "Name": "Aspira Charter School at Olney",
+    "Latitude": 40.029301,
+    "Longitude": -75.122727,
+    "Value": 34
+  },
+  {
+    "Name": "Benjamin Franklin High School",
+    "Latitude": 39.963023,
+    "Longitude": -75.161435,
+    "Value": 12
+  },
+  {
+    "Name": "Boys Latin of Philadelphia Charter School",
+    "Latitude": 39.951746,
+    "Longitude": -75.23373,
+    "Value": 1
+  },
+  {
+    "Name": "Building 21",
+    "Latitude": 40.052874,
+    "Longitude": -75.152877,
+    "Value": 7
+  },
+  {
+    "Name": "Community Academy of Philadelphia Charter School",
+    "Latitude": 40.005321,
+    "Longitude": -75.1075,
+    "Value": 1
+  },
+  {
+    "Name": "Frankford High School",
+    "Latitude": 40.021622,
+    "Longitude": -75.085159,
+    "Value": 5
+  },
+  {
+    "Name": "Franklin Learning Center",
+    "Latitude": 39.964816,
+    "Longitude": -75.162781,
+    "Value": 2
+  },
+  {
+    "Name": "Freire Charter School",
+    "Latitude": 39.9523,
+    "Longitude": -75.174239,
+    "Value": 2
+  },
+  {
+    "Name": "Furness High School",
+    "Latitude": 39.924155,
+    "Longitude": -75.1501,
+    "Value": 1
+  },
+  {
+    "Name": "George Washington High School",
+    "Latitude": 40.107403,
+    "Longitude": -75.026632,
+    "Value": ""
+  },
+  {
+    "Name": "High School of the Future",
+    "Latitude": 39.97431,
+    "Longitude": -75.204489,
+    "Value": 4
+  },
+  {
+    "Name": "Hill-Freedman World Academy",
+    "Latitude": 40.070988,
+    "Longitude": -75.174812,
+    "Value": 1
+  },
+  {
+    "Name": "John Bartram High School",
+    "Latitude": 39.92153,
+    "Longitude": -75.234207,
+    "Value": 3
+  },
+  {
+    "Name": "Jules E. Mastbaum Area Vocational Technical High School",
+    "Latitude": 39.992858,
+    "Longitude": -75.11235,
+    "Value": 1
+  },
+  {
+    "Name": "Kensington Health Sciences Academy",
+    "Latitude": 39.985148,
+    "Longitude": -75.128364,
+    "Value": 1
+  },
+  {
+    "Name": "Kensington High School for Creative and Performing Arts",
+    "Latitude": 39.977955,
+    "Longitude": -75.133056,
+    "Value": 2
+  },
+  {
+    "Name": "KIPP DuBois Charter School",
+    "Latitude": 39.979608,
+    "Longitude": -75.221148,
+    "Value": 1
+  },
+  {
+    "Name": "Lankenau High School",
+    "Latitude": 40.062308,
+    "Longitude": -75.253566,
+    "Value": 1
+  },
+  {
+    "Name": "Martin Luther King High School",
+    "Latitude": 40.057788,
+    "Longitude": -75.162122,
+    "Value": 30
+  },
+  {
+    "Name": "Mastery Charter School at Gratz",
+    "Latitude": 40.014489,
+    "Longitude": -75.15623,
+    "Value": 87
+  },
+  {
+    "Name": "Mastery Charter School at Hardy Williams",
+    "Latitude": 39.942021,
+    "Longitude": -75.225507,
+    "Value": 1
+  },
+  {
+    "Name": "Mastery Charter School at Lenfest",
+    "Latitude": 39.949494,
+    "Longitude": -75.147273,
+    "Value": 3
+  },
+  {
+    "Name": "Mastery Charter School at Pickett",
+    "Latitude": 40.031877,
+    "Longitude": -75.180876,
+    "Value": 5
+  },
+  {
+    "Name": "Mastery Charter School at Shoemaker",
+    "Latitude": 39.975365,
+    "Longitude": -75.229562,
+    "Value": 1
+  },
+  {
+    "Name": "Motivation High School",
+    "Latitude": 39.944064,
+    "Longitude": -75.24216,
+    "Value": 3
+  },
+  {
+    "Name": "Murrell Dobbins Career and Technical High School",
+    "Latitude": 39.995371,
+    "Longitude": -75.166615,
+    "Value": 16
+  },
+  {
+    "Name": "Northeast High School",
+    "Latitude": 40.056815,
+    "Longitude": -75.069779,
+    "Value": 10
+  },
+  {
+    "Name": "Overbrook High School",
+    "Latitude": 39.981813,
+    "Longitude": -75.23843,
+    "Value": 8
+  },
+  {
+    "Name": "Parkway Center City Middle College High School",
+    "Latitude": 39.962731,
+    "Longitude": -75.159299,
+    "Value": 1
+  },
+  {
+    "Name": "Parkway Northwest High School",
+    "Latitude": 40.056862,
+    "Longitude": -75.16452,
+    "Value": 7
+  },
+  {
+    "Name": "Parkway West High School",
+    "Latitude": 39.964312,
+    "Longitude": -75.215402,
+    "Value": 1
+  },
+  {
+    "Name": "Paul Robeson High School for Human Services",
+    "Latitude": 39.956854,
+    "Longitude": -75.204637,
+    "Value": 4
+  },
+  {
+    "Name": "Roxborough High School",
+    "Latitude": 40.037982,
+    "Longitude": -75.222706,
+    "Value": 19
+  },
+  {
+    "Name": "Samuel Fels High School",
+    "Latitude": 40.036723,
+    "Longitude": -75.092385,
+    "Value": 25
+  },
+  {
+    "Name": "Samuel Pennypacker School",
+    "Latitude": 40.065246,
+    "Longitude": -75.159763,
+    "Value": 1
+  },
+  {
+    "Name": "Sankofa Freedom Academy Charter School",
+    "Latitude": 39.987395,
+    "Longitude": -75.12964,
+    "Value": 5
+  },
+  {
+    "Name": "Strawberry Mansion High School",
+    "Latitude": 39.990744,
+    "Longitude": -75.184025,
+    "Value": 4
+  },
+  {
+    "Name": "TECH Freire Charter School",
+    "Latitude": 39.986584,
+    "Longitude": -75.156074,
+    "Value": 11
+  },
+  {
+    "Name": "The LINC",
+    "Latitude": 40.006759,
+    "Longitude": -75.130818,
+    "Value": 1
+  },
+  {
+    "Name": "The Science Leadership Academy at Beeber",
+    "Latitude": 39.986154,
+    "Longitude": -75.24194,
+    "Value": 2
+  },
+  {
+    "Name": "The U School",
+    "Latitude": 39.981948,
+    "Longitude": -75.14603,
+    "Value": 9
+  },
+  {
+    "Name": "Thomas A. Edison High School",
+    "Latitude": 40.012657,
+    "Longitude": -75.128405,
+    "Value": 5
+  },
+  {
+    "Name": "Universal Charter School at Audenried",
+    "Latitude": 39.934313,
+    "Longitude": -75.19924,
+    "Value": 2
+  },
+  {
+    "Name": "West Philadelphia High School",
+    "Latitude": 39.957589,
+    "Longitude": -75.219264,
+    "Value": 4
+  },
+  {
+    "Name": "William L. Sayre High School",
+    "Latitude": 39.957457,
+    "Longitude": -75.238688,
+    "Value": 11
+  }
+]
