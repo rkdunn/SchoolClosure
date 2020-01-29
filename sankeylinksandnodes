@@ -1,0 +1,1738 @@
+[
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 15-16)",
+    "value": 9
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "ENROLLED MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 15-16)",
+    "value": 3
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 15-16)",
+    "value": 11
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "value": 8
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER - RENAISSANCE (SY 15-16)",
+    "targetX": 5,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "value": 4
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "value": 4
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "value": 9
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "value": 8
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "value": 4
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "ENROLLED MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "value": 13
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "value": 4
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 17-18)",
+    "value": 21
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "targetX": 7,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 17-18)",
+    "value": 17
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 17-18)",
+    "value": 5
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 17-18)",
+    "value": 10
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "ENROLLED MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 17-18)",
+    "value": 3
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 17-18)",
+    "value": 10
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 17-18)",
+    "value": 4
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 17-18)",
+    "value": 28
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "UNKNOWN (SY 16-17)",
+    "targetX": 7,
+    "targetY": "ALT. PLACEMENT/CYBER/OTHER (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "CHARTER - RENAISSANCE (SY 15-16)",
+    "value": 5
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "ENROLLED MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "CHARTER - RENAISSANCE (SY 15-16)",
+    "value": 5
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "CHARTER - RENAISSANCE (SY 15-16)",
+    "value": 3
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER - RENAISSANCE (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "value": 6
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "value": 3
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "value": 5
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "ENROLLED MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "value": 6
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "value": 4
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER - RENAISSANCE (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER - RENAISSANCE (SY 17-18)",
+    "value": 19
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER - RENAISSANCE (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER - RENAISSANCE (SY 17-18)",
+    "value": 48
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER - RENAISSANCE (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER - RENAISSANCE (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "ENROLLED MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER - RENAISSANCE (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER - RENAISSANCE (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER - RENAISSANCE (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER - RENAISSANCE (SY 17-18)",
+    "value": 71
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "CHARTER (SY 15-16)",
+    "value": 12
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "CHARTER (SY 15-16)",
+    "value": 1
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "ENROLLED MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "CHARTER (SY 15-16)",
+    "value": 6
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "CHARTER (SY 15-16)",
+    "value": 12
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "CHARTER (SY 15-16)",
+    "value": 2
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 14
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 3
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 3
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 9
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 3
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 8
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "CHARTER (SY 16-17)",
+    "value": 12
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER (SY 17-18)",
+    "value": 21
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER (SY 17-18)",
+    "value": 9
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER (SY 17-18)",
+    "value": 7
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER (SY 17-18)",
+    "value": 8
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER (SY 17-18)",
+    "value": 4
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER (SY 17-18)",
+    "value": 3
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER (SY 17-18)",
+    "value": 26
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "CHARTER (SY 17-18)",
+    "value": 16
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DEL VAL CHARTER (SY 15-16)",
+    "value": 357
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DEL VAL CHARTER (SY 15-16)",
+    "value": 46
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "ENROLLED MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DEL VAL CHARTER (SY 15-16)",
+    "value": 46
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "ENROLLED MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DEL VAL CHARTER (SY 15-16)",
+    "value": 18
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DEL VAL CHARTER (SY 15-16)",
+    "value": 4
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DEL VAL CHARTER (SY 15-16)",
+    "value": 3
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 187
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 17
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "ENROLLED MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "ENROLLED MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 13
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "ENROLLED MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 4
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 4
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 95
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DEL VAL CHARTER (SY 16-17)",
+    "value": 21
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DID NOT GRADUATE (SY 15-16)",
+    "value": 1
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 15-16)",
+    "value": 6
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 15-16)",
+    "value": 5
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT - SPECIAL ADMIT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 16-17)",
+    "value": 7
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 17-18)",
+    "value": 7
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT - SPECIAL ADMIT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 17-18)",
+    "value": 8
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "ENROLLED MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 17-18)",
+    "value": 8
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT - SPECIAL ADMIT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DISTRICT (SY 15-16)",
+    "value": 5
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DISTRICT (SY 15-16)",
+    "value": 19
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DISTRICT (SY 15-16)",
+    "value": 12
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "ENROLLED MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DISTRICT (SY 15-16)",
+    "value": 9
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "ENROLLED MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DISTRICT (SY 15-16)",
+    "value": 5
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DISTRICT (SY 15-16)",
+    "value": 1
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DISTRICT (SY 15-16)",
+    "value": 13
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "DISTRICT (SY 15-16)",
+    "value": 10
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER - RENAISSANCE (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 4
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 3
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 19
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 13
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "ENROLLED MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 13
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 9
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 2
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 6
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DISTRICT (SY 16-17)",
+    "value": 4
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 24
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 45
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 9
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT - SPECIAL ADMIT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 3
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 16
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 6
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "ENROLLED MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "ENROLLED MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "ENROLLED MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 10
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 3
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 2
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 31
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 70
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "DISTRICT (SY 17-18)",
+    "value": 28
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DROPPED & RE-ENTER (SY 16-17)",
+    "value": 3
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER - RENAISSANCE (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DROPPED & RE-ENTER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DROPPED & RE-ENTER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DID NOT GRADUATE (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DROPPED & RE-ENTER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DROPPED & RE-ENTER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DROPPED & RE-ENTER (SY 16-17)",
+    "value": 5
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "DROPPED & RE-ENTER (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "OTHER ENROLLMENTS (SY 14-15)",
+    "targetX": 2,
+    "targetY": "ENROLLED MID-YEAR (SY 14-15)",
+    "value": 105
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "OTHER ENROLLMENTS (SY 15-16)",
+    "targetX": 4,
+    "targetY": "ENROLLED MID-YEAR (SY 15-16)",
+    "value": 2
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "OTHER ENROLLMENTS (SY 15-16)",
+    "targetX": 4,
+    "targetY": "ENROLLED MID-YEAR (SY 15-16)",
+    "value": 29
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "OTHER ENROLLMENTS (SY 15-16)",
+    "targetX": 4,
+    "targetY": "ENROLLED MID-YEAR (SY 15-16)",
+    "value": 3
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "OTHER ENROLLMENTS (SY 16-17)",
+    "targetX": 6,
+    "targetY": "ENROLLED MID-YEAR (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "OTHER ENROLLMENTS (SY 16-17)",
+    "targetX": 6,
+    "targetY": "ENROLLED MID-YEAR (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "OTHER ENROLLMENTS (SY 16-17)",
+    "targetX": 6,
+    "targetY": "ENROLLED MID-YEAR (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "OTHER ENROLLMENTS (SY 16-17)",
+    "targetX": 6,
+    "targetY": "ENROLLED MID-YEAR (SY 16-17)",
+    "value": 8
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 2,
+    "targetY": "LEFT MID-YEAR (SY 14-15)",
+    "value": 75
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 4,
+    "targetY": "LEFT MID-YEAR (SY 15-16)",
+    "value": 18
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 4,
+    "targetY": "LEFT MID-YEAR (SY 15-16)",
+    "value": 3
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 4,
+    "targetY": "LEFT MID-YEAR (SY 15-16)",
+    "value": 46
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 4,
+    "targetY": "LEFT MID-YEAR (SY 15-16)",
+    "value": 9
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 6,
+    "targetY": "LEFT MID-YEAR (SY 16-17)",
+    "value": 17
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 6,
+    "targetY": "LEFT MID-YEAR (SY 16-17)",
+    "value": ""
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 6,
+    "targetY": "LEFT MID-YEAR (SY 16-17)",
+    "value": 21
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 6,
+    "targetY": "LEFT MID-YEAR (SY 16-17)",
+    "value": 4
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 6,
+    "targetY": "LEFT MID-YEAR (SY 16-17)",
+    "value": 12
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "OTHER ENROLLMENTS (SY 16-17)",
+    "targetX": 6,
+    "targetY": "LEFT MID-YEAR (SY 16-17)",
+    "value": 3
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "LIKELY GRADUATE (JUNE 2015)",
+    "value": 172
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "ENROLLED MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "LIKELY GRADUATE (JUNE 2015)",
+    "value": 10
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "LIKELY GRADUATE (JUNE 2015)",
+    "value": 8
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 6
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER - RENAISSANCE (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 4
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 150
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT - SPECIAL ADMIT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 3
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 7
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 2
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "ENROLLED MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 2
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 4
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "LIKELY GRADUATE (JUNE 2016)",
+    "value": 8
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 12
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 3
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 8
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 4
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 110
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT - SPECIAL ADMIT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 2
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 3
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 11
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 4
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DROPPED & RE-ENTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 12
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "ENROLLED MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 1
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "ENROLLED MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 1
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 9
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "LIKELY GRADUATE (JUNE 2017)",
+    "value": 26
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "OTHER ENROLLMENTS (SY 14-15)",
+    "targetX": 3,
+    "targetY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "value": 166
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "OTHER ENROLLMENTS (SY 14-15)",
+    "targetX": 3,
+    "targetY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "value": 9
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "OTHER ENROLLMENTS (SY 15-16)",
+    "targetX": 5,
+    "targetY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "value": 353
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "OTHER ENROLLMENTS (SY 15-16)",
+    "targetX": 5,
+    "targetY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "value": 12
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "OTHER ENROLLMENTS (SY 15-16)",
+    "value": 3
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "OTHER ENROLLMENTS (SY 15-16)",
+    "value": 2
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "OTHER ENROLLMENTS (SY 14-15)",
+    "targetX": 3,
+    "targetY": "OTHER ENROLLMENTS (SY 15-16)",
+    "value": 373
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "OTHER ENROLLMENTS (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "OTHER ENROLLMENTS (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "OTHER ENROLLMENTS (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 4,
+    "sourceY": "LEFT MID-YEAR (SY 15-16)",
+    "targetX": 5,
+    "targetY": "OTHER ENROLLMENTS (SY 16-17)",
+    "value": 3
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "OTHER ENROLLMENTS (SY 15-16)",
+    "targetX": 5,
+    "targetY": "OTHER ENROLLMENTS (SY 16-17)",
+    "value": 8
+  },
+  {
+    "sourceX": 1,
+    "sourceY": "DEL VAL CHARTER (SY 14-15)",
+    "targetX": 3,
+    "targetY": "UNKNOWN (SY 15-16)",
+    "value": 17
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "ENROLLED MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "UNKNOWN (SY 15-16)",
+    "value": 3
+  },
+  {
+    "sourceX": 2,
+    "sourceY": "LEFT MID-YEAR (SY 14-15)",
+    "targetX": 3,
+    "targetY": "UNKNOWN (SY 15-16)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "UNKNOWN (SY 16-17)",
+    "value": 3
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "UNKNOWN (SY 16-17)",
+    "value": 24
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT - SPECIAL ADMIT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "UNKNOWN (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "UNKNOWN (SY 16-17)",
+    "value": 1
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "DISTRICT (SY 15-16)",
+    "targetX": 5,
+    "targetY": "UNKNOWN (SY 16-17)",
+    "value": 5
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 15-16)",
+    "targetX": 5,
+    "targetY": "UNKNOWN (SY 16-17)",
+    "value": 7
+  },
+  {
+    "sourceX": 3,
+    "sourceY": "UNKNOWN (SY 15-16)",
+    "targetX": 5,
+    "targetY": "UNKNOWN (SY 16-17)",
+    "value": 21
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "ALT. PLACEMENT/CYBER/OTHER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 18
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER - RENAISSANCE (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 3
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 6
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 32
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 13
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DISTRICT (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 5
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "DROPPED & RE-ENTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "ENROLLED MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 5
+  },
+  {
+    "sourceX": 6,
+    "sourceY": "LEFT MID-YEAR (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 1
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "NEW TO DEL VAL CHARTER (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 47
+  },
+  {
+    "sourceX": 5,
+    "sourceY": "UNKNOWN (SY 16-17)",
+    "targetX": 7,
+    "targetY": "UNKNOWN (SY 17-18)",
+    "value": 61
+  }
+]
