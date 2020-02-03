@@ -1,0 +1,74 @@
+[
+  {
+    "metric": "MY 14-15",
+    "sex": "male",
+    "Graduate": 10.67,
+    "Delaware Valley CS": 12,
+    "Charter": 18.67,
+    "Charter - Renaissance": 4,
+    "District": 32,
+    "District - Special Admit": 6.67,
+    "Alt. Placement / Other": 14.67,
+    "Unknown": 1.333333333
+  },
+  {
+    "metric": "EOY 14-15",
+    "sex": "male",
+    "Graduate": 23.67,
+    "Delaware Valley CS": 61.12,
+    "Charter": 2.47,
+    "Charter - Renaissance": 1.3,
+    "District": 6.5,
+    "District - Special Admit": 0.78,
+    "Alt. Placement / Other": 1.56,
+    "Unknown": 2.600780234
+  },
+  {
+    "metric": "MY 15-16",
+    "sex": "male",
+    "Graduate": 6.76,
+    "Delaware Valley CS": 16.22,
+    "Charter": 17.57,
+    "Charter - Renaissance": 8.11,
+    "District": 33.78,
+    "District - Special Admit": 0,
+    "Alt. Placement / Other": 17.57,
+    "Unknown": 0
+  },
+  {
+    "metric": "EOY 15-16",
+    "sex": "male",
+    "Graduate": 26.58,
+    "Delaware Valley CS": 56.31,
+    "Charter": 3.99,
+    "Charter - Renaissance": 1.66,
+    "District": 3.32,
+    "District - Special Admit": 0.66,
+    "Alt. Placement / Other": 2.33,
+    "Unknown": 5.149501661
+  },
+  {
+    "metric": "MY 16-17",
+    "sex": "male",
+    "Graduate": 15.52,
+    "Delaware Valley CS": 0,
+    "Charter": 12.07,
+    "Charter - Renaissance": 5.17,
+    "District": 29.31,
+    "District - Special Admit": 3.45,
+    "Alt. Placement / Other": 24.14,
+    "Unknown": 10.34482759
+  },
+  {
+    "metric": "EOY 16-17",
+    "sex": "male",
+    "Graduate": 21.87,
+    "Delaware Valley CS": 0,
+    "Charter": 9.03,
+    "Charter - Renaissance": 12.68,
+    "District": 33.44,
+    "District - Special Admit": 2.69,
+    "Alt. Placement / Other": 7.61,
+    "Unknown": 12.67828843
+  }
+]
