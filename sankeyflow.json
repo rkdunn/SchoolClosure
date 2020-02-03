@@ -1,0 +1,68 @@
+[
+  {
+    "metric": "MY 14-15",
+    "Graduate": 8,
+    "Delaware Valley CS": 9,
+    "Charter": 14,
+    "Charter - Renaissance": 3,
+    "District": 24,
+    "District - Special Admit": 5,
+    "Alt. Placement / Other": 11,
+    "Unknown": 1
+  },
+  {
+    "metric": "EOY 14-15",
+    "Graduate": 182,
+    "Delaware Valley CS": 470,
+    "Charter": 19,
+    "Charter - Renaissance": 10,
+    "District": 50,
+    "District - Special Admit": 6,
+    "Alt. Placement / Other": 12,
+    "Unknown": 20
+  },
+  {
+    "metric": "MY 15-16",
+    "Graduate": 5,
+    "Delaware Valley CS": 12,
+    "Charter": 13,
+    "Charter - Renaissance": 6,
+    "District": 25,
+    "District - Special Admit": 0,
+    "Alt. Placement / Other": 13,
+    "Unknown": 0
+  },
+  {
+    "metric": "EOY 15-16",
+    "Graduate": 160,
+    "Delaware Valley CS": 339,
+    "Charter": 24,
+    "Charter - Renaissance": 10,
+    "District": 20,
+    "District - Special Admit": 4,
+    "Alt. Placement / Other": 14,
+    "Unknown": 31
+  },
+  {
+    "metric": "MY 16-17",
+    "Graduate": 9,
+    "Delaware Valley CS": "",
+    "Charter": 7,
+    "Charter - Renaissance": 3,
+    "District": 17,
+    "District - Special Admit": 2,
+    "Alt. Placement / Other": 14,
+    "Unknown": 6
+  },
+  {
+    "metric": "EOY 16-17",
+    "Graduate": 138,
+    "Delaware Valley CS": "",
+    "Charter": 57,
+    "Charter - Renaissance": 80,
+    "District": 211,
+    "District - Special Admit": 17,
+    "Alt. Placement / Other": 48,
+    "Unknown": 80
+  }
+]
