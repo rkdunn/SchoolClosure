@@ -1,6 +1,7 @@
 [
   {
     "metric": "MY 14-15",
+    "sex": "male",
     "Graduate": 8,
     "Delaware Valley CS": 9,
     "Charter": 14,
@@ -12,6 +13,7 @@
   },
   {
     "metric": "EOY 14-15",
+    "sex": "male",
     "Graduate": 182,
     "Delaware Valley CS": 470,
     "Charter": 19,
@@ -23,6 +25,7 @@
   },
   {
     "metric": "MY 15-16",
+    "sex": "male",
     "Graduate": 5,
     "Delaware Valley CS": 12,
     "Charter": 13,
@@ -34,6 +37,7 @@
   },
   {
     "metric": "EOY 15-16",
+    "sex": "male",
     "Graduate": 160,
     "Delaware Valley CS": 339,
     "Charter": 24,
@@ -45,6 +49,7 @@
   },
   {
     "metric": "MY 16-17",
+    "sex": "male",
     "Graduate": 9,
     "Delaware Valley CS": "",
     "Charter": 7,
@@ -56,6 +61,7 @@
   },
   {
     "metric": "EOY 16-17",
+    "sex": "male",
     "Graduate": 138,
     "Delaware Valley CS": "",
     "Charter": 57,
